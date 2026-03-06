@@ -1,6 +1,5 @@
 # github-cover-letter
 Cover letter for application to Senior Mid Market Account Executive II
-I created this repository as a small demonstration of my curiosity about the developer ecosystem and the platforms that enable modern software development.
 -----------
 Dear GitHub Team,
 
