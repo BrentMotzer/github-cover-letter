@@ -23,4 +23,5 @@ I would welcome the opportunity to contribute to GitHub’s continued growth and
 candidacy.
 
 Best regards,
+
 Brent Motzer
