@@ -9,7 +9,7 @@ making, learning, and personal development. I regularly engage with modern LLMs 
 Claude Code and an agentic AI platform called OpenClaw. Experiences like these continue to deepen my interest in the systems and
 platforms that enable technological progress.
 
-I currently manage a $4M+ territory selling into enterprise-level hospital systems, where I’m responsible for growing revenue
+I currently manage a $4M+ territory selling into enterprise-level hospital systems, where I’m responsible for full-cycle sales
 and driving adoption of multiple cardiovascular technologies across a complex set of accounts. Over the past year, I’ve
 delivered over 24.5% revenue growth, and over the course of my tenure I’ve consistently exceeded quarterly quota by double
 digits. A big part of my role involves structuring six-figure agreements, many of which generate over $500K in annual
