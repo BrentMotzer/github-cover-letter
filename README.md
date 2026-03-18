@@ -10,7 +10,7 @@ Claude Code and an agentic AI platform called OpenClaw. Experiences like these c
 platforms that enable technological progress.
 
 I currently manage a $4M+ territory selling into enterprise-level hospital systems, where I’m responsible for full-cycle sales
-and driving adoption of multiple cardiovascular technologies across a complex set of accounts. Over the past year, I’ve
+and driving adoption of advanced cardiovascular technologies across a complex set of accounts. Over the past year, I’ve
 delivered over 24.5% revenue growth, and over the course of my tenure I’ve consistently exceeded quarterly quota by double
 digits. A big part of my role involves structuring six-figure agreements, many of which generate over $500K in annual
 recurring revenue. Doing so requires aligning clinical, operational, and financial stakeholders across multiple levels of the
